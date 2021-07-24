@@ -1,5 +1,7 @@
 # dcbgb
 
+this is **c#** btw and not **c++**
+
 ![alt text](https://github.com/Leetrisk/dcbgb/blob/main/dcbgb.png?raw=true)
 
 dcbgb or 'discord background bot' lets you run .bat in system tray 
